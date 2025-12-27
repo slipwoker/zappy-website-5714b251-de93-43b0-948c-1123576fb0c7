@@ -1,0 +1,57 @@
+# שחייני דולפין — Generative Engine Optimization Map
+
+> A ספורט ושחייה business.
+
+---
+
+## Pages
+
+### Home
+https://-5714b251.zappy5.app
+שחייני דולפין - בית הספר לשחייה המוביל בישראל. אימונים מקצועיים לכל הגילאים, מדריכים מוסמכים, קבוצות קטנות. הצטרפו למשפחת דולפין והתחילו לשחות היום!
+
+### Programs
+https://-5714b251.zappy5.app/programs
+גלה את מגוון תוכניות האימון של שחייני דולפין: ילדים, נוער, מבוגרים, שיעורים פרטיים ותוכנית תחרותית. שיעור ניסיון חינם למצטרפים חדשים!
+
+### About
+https://-5714b251.zappy5.app/about
+הכירו את הסיפור של שחייני דולפין: 15 שנים של מסירות, צוות מקצועי של 50+ מדריכים, ו-2000+ שחיינים מאושרים. גלו מה עושה אותנו למובילים בתחום.
+
+### Contact
+https://-5714b251.zappy5.app/contact
+צור קשר עם שחייני דולפין: 8 סניפים ברחבי הארץ, שיעור ניסיון חינם, מענה מהיר. התקשר [business_phone] או שלח הודעה עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5714b251.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5714b251.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5714b251.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שחייני דולפין
+שחייני דולפין is a business in the ספורט ושחייה industry.
+
+## Target Audience
+גילאי 18+
+
+## Industry
+ספורט ושחייה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-5714b251.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-5714b251.zappy5.app/robots.txt
